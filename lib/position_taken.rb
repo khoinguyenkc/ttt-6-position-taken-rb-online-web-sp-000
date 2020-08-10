@@ -6,5 +6,3 @@ def position_taken(input)
     true
   end
 end
-
-  
